@@ -2,7 +2,6 @@
 #define RECORD_H_
 
 #include <vector>
-#include "RuntimeException.h"
 
 using namespace std;
 
